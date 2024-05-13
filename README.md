@@ -8,6 +8,7 @@ Machine Learning Engineer
 
 * 🌍  I'm based in IRAN
 * ✉️  You can contact me at [a\_arabi@yahoo.com](mailto:a_arabi@yahoo.com)
+* 💗  now working as Data Analysis , Data sciense
 * 🧠  I'm learning NLP , FINANCE , MLOPS
 * ⚡  i love reading book. the best teachers are Book and Youtube.
 
