@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Learning Engineer
 -------------------------
 
-\- - - - - - - - - -- - - - - - - - - - - - - - \*\* change the world step by step \*\* - - - - - - - - - - - -- - - - - - - - - - - - I have been coding for about three years. At first, I worked in the field of industrial engineering, then due to my interest in the field of finance, I got my master's degree in artificial intelligence. I am currently learning MLOPS and will share my projects.
+\- - - - - - - - - -- - - - - - - - - - - - - - \*\* change the world step by step \*\* - - - - - - - - - - - -- - - - - - - - - - - - 
+I have been coding for about three years. At first, I worked in the field of industrial engineering, then due to my interest in the field of finance, I got my master's degree in artificial intelligence. share your code , send mail to work together and enjoy from life. I am currently learning MLOPS and will share my projects.
 
 * 🌍  I'm based in IRAN
 * ✉️  You can contact me at [a\_arabi@yahoo.com](mailto:a_arabi@yahoo.com)
